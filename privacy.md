@@ -40,4 +40,4 @@ If this policy changes, the new version will be posted here with a new effective
 
 ## Contact
 
-A support email address will be listed here before Worthwhile is released.
+Questions? Email [justincamelcasedev@gmail.com](mailto:justincamelcasedev@gmail.com).
